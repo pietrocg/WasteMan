@@ -1,0 +1,3 @@
+steps:
+  - name: 'gc.io/cloud-builders/docker'
+    args: ['build', '-t', 'LOCATION-docker.pkg.dev/38117449825694015803811744982569401580,WasteMan/D']

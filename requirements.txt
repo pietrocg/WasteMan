@@ -1,0 +1,9 @@
+flask
+flask_login
+datetime
+mysql-connector-python
+configparser
+pathlib
+numpy
+pandas
+pymysql
